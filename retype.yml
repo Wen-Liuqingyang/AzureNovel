@@ -14,8 +14,8 @@ branding:
   label: Novle
 
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: GitHub主页
+  link: https://github.com/Wen-Liuqingyang
 
 footer:
   copyright: "&copy;文柳轻扬 Copyright {{ year }}. All rights reserved."
