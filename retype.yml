@@ -1,0 +1,21 @@
+input: .
+output: .retype
+
+url: docs.example.com # Use your website address here
+
+lang: zh-CN
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  pro: true
+
+branding:
+  title: Azure Novle
+  label: Novle
+
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy;文柳轻扬 Copyright {{ year }}. All rights reserved."
