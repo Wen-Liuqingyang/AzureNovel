@@ -18,5 +18,5 @@ order: 10000
 
 在看小说前建议先阅读更新日志，了解最新的更新内容和进度哦~
 
-点击下面的连接可以下载此网站完整源码，也可以在本地运行，体验更快的访问速度(仅限PC)。
-[!file icon="file-zip" text="AzureNovel Source"](/Assets/Files/AzureNovelSource.zip)
+点击下面的连接可以下载此网站完整源码，也可以在本地部署运行，体验更快的访问速度(仅限PC)。
+[!file icon="file-zip" text="AzureNovel Source（已过期）"](/Assets/Files/AzureNovelSource.zip)
